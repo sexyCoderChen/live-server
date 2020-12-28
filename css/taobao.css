@@ -49,22 +49,25 @@
 }
 .waist{
     display: flex;
+    align-items: center;
     width: 1500px;
-    height: 100px;
+    /* height: 100px; */
 }
 .logo{
     width: 500px;
-    height: 100px;
     text-align:right;
     padding-top: 10px;
     display:block ;
 }
 .list{
     display: inline;
-    width: 500px;
-    height: 10px;
-    padding-top: 15px;
-    margin: 10px;
+    /* width: 500px; */
+    /* height: 10px; */
+    /* padding-top: 15px; */
+    margin: 0 80px;
+}
+.keybox{
+    padding: 10px;
 }
 .searchlist{
     display: inline;
