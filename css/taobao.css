@@ -1,0 +1,141 @@
+.header{
+    display: flex;
+    width: 1500px;
+    margin: auto;
+    /* border: ; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.country{
+    /* margin-right: 10px; */
+    padding-right: 10px;
+}
+.tip{
+    margin-right: 8px;
+    color: red;
+}
+.free{
+    margin-right: 15px;
+}
+.shop{
+    margin-right: 200px;
+}
+.name{
+    margin-right: 10px;
+}
+.car{
+    margin-right: 10px;
+}
+.favorites{
+    padding-right: 10px;
+}
+.sort{
+    padding-right: 10px;
+}
+.store{
+    padding-right: 10px;
+}
+.center{
+    margin-right: 10px
+}
+.connet{
+    margin-right: 10px
+}
+.imagbox{
+    margin: auto;
+    display: block;
+    background-color: #fd5632;
+    text-align: center;
+}
+.waist{
+    display: flex;
+    width: 1500px;
+    height: 100px;
+}
+.logo{
+    width: 500px;
+    height: 100px;
+    text-align:right;
+    padding-top: 10px;
+    display:block ;
+}
+.list{
+    display: inline;
+    width: 500px;
+    height: 10px;
+    padding-top: 15px;
+    margin: 10px;
+}
+.searchlist{
+    display: inline;
+}
+.searchtop{
+    display: inline;
+}
+.searchwrap{
+    display: inline;
+}
+.searchbox{
+    display: block;
+    width: 500px;
+    height: 30px;
+    border-radius: 20px;
+    border: 2px solid #fd5632;
+    position: relative;
+    overflow: hidden;
+}
+.search{
+    position: absolute;
+    right: 0;
+    padding: 10px;
+    background-color: #fd5632;
+    width: 24px;
+    height: 10px;
+    text-align: center;
+    /* border-top-right-radius: 18px;
+    border-bottom-right-radius: 18px; */
+}
+.down{
+    display: inline;
+    padding-top: 10px;
+}
+.downjpg{
+    width: 60px;
+    padding-top: 5px;
+}
+.banner{
+    display: flex;
+    background-color: #f77326;
+    width: 800px;
+    height: 40px;
+    margin: auto;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    flex: 1;
+}
+.market{
+    display: flex;
+    width: 1200px;
+    height: 40px;
+    margin: auto;
+}
+.sc{
+    text-align: center;
+    background-color:#ff5000;
+    width: 200px;
+    color: white;
+    font-size: 18px;
+    padding-top: 10px;
+}
+.sn{
+    padding-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: white;
+}
+.sna{
+    padding-top: 10px;
+    margin-right: 10px;
+    color: white;
+}
