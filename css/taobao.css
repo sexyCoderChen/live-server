@@ -23,24 +23,6 @@
 .name{
     margin-right: 10px;
 }
-.car{
-    margin-right: 10px;
-}
-.favorites{
-    padding-right: 10px;
-}
-.sort{
-    padding-right: 10px;
-}
-.store{
-    padding-right: 10px;
-}
-.center{
-    margin-right: 10px
-}
-.connet{
-    margin-right: 10px
-}
 .imagbox{
     margin: auto;
     display: block;
@@ -90,6 +72,7 @@
 .search{
     position: absolute;
     right: 0;
+    top: 1px;
     padding: 10px;
     background-color: #fd5632;
     width: 24px;
@@ -141,4 +124,8 @@
     padding-top: 10px;
     margin-right: 10px;
     color: white;
+}
+.eve{
+    padding: 7px;
+    width: 500px;
 }
