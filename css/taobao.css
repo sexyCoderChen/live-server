@@ -130,3 +130,6 @@
     width: 500px;
     margin: -3px;
 }
+.sortlist{
+    display: inline;
+}
