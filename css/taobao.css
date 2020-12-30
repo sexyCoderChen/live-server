@@ -23,24 +23,6 @@
 .name{
     margin-right: 10px;
 }
-.car{
-    margin-right: 10px;
-}
-.favorites{
-    padding-right: 10px;
-}
-.sort{
-    padding-right: 10px;
-}
-.store{
-    padding-right: 10px;
-}
-.center{
-    margin-right: 10px
-}
-.connet{
-    margin-right: 10px
-}
 .imagbox{
     margin: auto;
     display: block;
@@ -90,6 +72,7 @@
 .search{
     position: absolute;
     right: 0;
+    top: 0px;
     padding: 10px;
     background-color: #fd5632;
     width: 24px;
@@ -141,4 +124,103 @@
     padding-top: 10px;
     margin-right: 10px;
     color: white;
+}
+.eve{
+    padding: 9px;
+    width: 500px;
+    margin: -3px;
+}
+.sortbox{
+    position: relative;
+    width: 1200px;
+    margin: auto;
+    display: flex;
+}
+.sort{
+    /* position: absolute;
+    right: 0px; */
+    display: block;
+    width: 196px;
+    border: 2px solid #ff5000;
+    text-align: center;
+    padding-top: 20px;
+}
+.sortlist{
+    display: inline;
+    font-size: 14px;
+    margin: 6px;
+}
+.sortwrap{
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+.imgbox{
+    display: inline;
+}
+.imgbor{
+    display: flex;
+    align-items: center;
+    margin: 5px;
+    padding: 5px;
+}
+.imgs{
+    margin-right: 24px;
+}
+.imgt{
+    text-align: center;
+    width: 300px;
+}
+.corin{
+    display: flex;
+    margin: auto;
+    /* text-align: center;
+    width: 400px; */
+    justify-content: center;
+
+}
+.club{
+    padding-right: 2px;
+    background-color: oldlace;
+    width: 90px;
+    border-radius: 5px;
+    height: 20px;
+    padding-top: 5px;
+    margin-right: 10px;
+    color: #ff5000;
+    /* text-align: center; */
+}
+.jpgbox{
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+.Bulletinboard{
+    width: 300px;
+    display: flex;
+}
+.Bulletin{
+    color: black;
+    padding-right: 10px;
+    margin: auto;
+    padding-top: 5px;
+}
+.notice{
+    text-align: left;
+    padding-top: 5px;
+}
+.diagram{
+    display: block;
+    margin: auto;
+    /* text-align: center; */
+    width: 1200px;
+    height: 100px;
+    background-color: white;
+    /* position: absolute; */
+}
+.god{
+    /* position: relative; */
+    padding-top: 20px;
+    width: 100px;
+    margin-left: 30px;
+
 }
