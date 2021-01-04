@@ -242,6 +242,7 @@
 }
 .threepic{
     display: flex;
+    padding-right: 10px;
 
 }
 .twopic{
@@ -252,6 +253,7 @@
 }
 .onepic{
     height: 200px;
+    width: 200px;
 }
 
 .btn{
@@ -264,10 +266,43 @@
 }
 .picbox{
     display: flex;
+    /* padding-right: 20px; */
 }
 .smp{
     height: 100px;
+    width: 100px;
 }
 .bp{
     display: flex;
+}
+.tu{
+    width: 111px;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+.pm{
+    width: 150px;
+    height: 150px;
+}
+.gl{
+    width: 208px;
+    height: 234px;
+    padding-right: 10px;
+
+}
+.new{
+    text-align: center;
+    width: 298px;
+    height: 248px;
+    padding: 20px 20px;
+}
+.xp{
+    padding-top: 40px;
+    width: 280px;
+    height: 300px;
+    /* text-align: center; */
+}
+.xxp{
+    width: 197px;
+    height: 197px;
 }
