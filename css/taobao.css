@@ -298,9 +298,10 @@
 }
 .xp{
     padding-top: 40px;
-    width: 280px;
-    height: 300px;
-    /* text-align: center; */
+    width: 193px;
+    /* height: 300px; */
+ 
+    padding: 20px;
 }
 .xxp{
     width: 197px;
@@ -311,7 +312,7 @@
     height: 30px;
     margin: auto;
     background: url('https://img.alicdn.com/tfs/TB1eiXTXlTH8KJjy0FiXXcRsXXa-24-595.png') no-repeat;
-    background-position: 0px 0px;
+    background-position: center 0px;
 }
 .xtitle{
     width: 30px;
@@ -319,21 +320,21 @@
     margin: auto;
     /* justify-items: center; */
     background: url('https://img.alicdn.com/tfs/TB1eiXTXlTH8KJjy0FiXXcRsXXa-24-595.png') no-repeat;
-    background-position: 0px -87px;
+    background-position: center -87px;
 }
 .xxtitle{
     width: 30px;
     height: 30px;
     margin: auto;
     background: url('https://img.alicdn.com/tfs/TB1eiXTXlTH8KJjy0FiXXcRsXXa-24-595.png')no-repeat;
-    background-position: 0px -44px;
+    background-position: center -44px;
 }
 .xxxtitle{
     width: 30px;
     height: 30px;
     margin: auto;
     background: url('https://img.alicdn.com/tfs/TB1eiXTXlTH8KJjy0FiXXcRsXXa-24-595.png')no-repeat;
-    background-position: 0px -132px;
+    background-position: center -132px;
 }
 .icon{
     width: 60px;
@@ -344,26 +345,51 @@
     height: 30px;
     margin: auto;
     background: url('https://img.alicdn.com/tfs/TB1eiXTXlTH8KJjy0FiXXcRsXXa-24-595.png')no-repeat;
-    background-position: 0px -176px;
+    background-position: center -176px;
 }
 .sstb{
     width: 30px;
     height: 30px;
     margin: auto;
     background: url('https://img.alicdn.com/tfs/TB1eiXTXlTH8KJjy0FiXXcRsXXa-24-595.png')no-repeat;
-    background-position: 0px -220px;
+    background-position: center -220px;
 }
 .ssstb{
     width: 30px;
     height: 30px;
     margin: auto;
     background: url('https://img.alicdn.com/tfs/TB1eiXTXlTH8KJjy0FiXXcRsXXa-24-595.png')no-repeat;
-    background-position: 0px -264px;
+    background-position: center -264px;
 }
 .sssstb{
     width: 30px;
     height: 30px;
     margin: auto;
     background: url('https://img.alicdn.com/tfs/TB1eiXTXlTH8KJjy0FiXXcRsXXa-24-595.png')no-repeat;
-    background-position: 0px -308px;
+    background-position: center -308px;
+}
+.text{
+    display: flex;
+    padding-top: 40px;
+}
+.price{
+    flex: 1;
+    font-size: 20px;
+    color: #f77326;
+}
+.number{
+    padding-top: 5px;
+    color: gray;
+}
+.ib{
+    display: flex;
+    /* padding: 10px; */
+}
+.ibo{
+    padding: 10px;
+}
+.word{
+    width: 200px;
+    padding: 20px;
+    
 }
